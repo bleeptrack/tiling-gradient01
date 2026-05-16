@@ -12,3 +12,4 @@ test/__pycache__/
 test/results.xml
 test/gate_level_netlist.v
 macro_generation/.venv
+macro_generation/__pycache__/generation.cpython-313.pyc

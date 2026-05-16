@@ -2,7 +2,7 @@ import gdstk
 import os
 import random
 
-# IHP SG13G2 top metal (same layer as prior cross-stitch macro)
+# Sky130: met5 drawing (71/20) and PR boundary (235/4)
 METAL_LAYER = 71
 METAL_DATATYPE = 20
 PR_BOUNDARY_LAYER = 235
